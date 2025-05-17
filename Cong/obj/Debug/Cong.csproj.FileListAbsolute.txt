@@ -1,0 +1,10 @@
+D:\Demo11\Cong\Cong\obj\Debug\Cong.csproj.AssemblyReference.cache
+D:\Demo11\Cong\Cong\obj\Debug\Cong.Form1.resources
+D:\Demo11\Cong\Cong\obj\Debug\Cong.Properties.Resources.resources
+D:\Demo11\Cong\Cong\obj\Debug\Cong.csproj.GenerateResource.cache
+D:\Demo11\Cong\Cong\obj\Debug\Cong.csproj.CoreCompileInputs.cache
+D:\Demo11\Cong\Cong\bin\Debug\Cong.exe.config
+D:\Demo11\Cong\Cong\bin\Debug\Cong.exe
+D:\Demo11\Cong\Cong\bin\Debug\Cong.pdb
+D:\Demo11\Cong\Cong\obj\Debug\Cong.exe
+D:\Demo11\Cong\Cong\obj\Debug\Cong.pdb
